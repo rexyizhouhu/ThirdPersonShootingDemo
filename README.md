@@ -26,3 +26,13 @@ L7: 链接：https://pan.baidu.com/s/1Cyd_77YvPC_TH3clSf3zqg
 提取码：iiug
 
 实现所有L7所有功能
+
+
+L8: 链接：https://pan.baidu.com/s/1dEuxvCcAyRwE9IPjf2K-_g 
+提取码：4gqy
+
+实现L8所有功能
+
+蓝图切换材质在MaterialSwitch地图里
+
+其余在ThirdPersonExampleMap里
