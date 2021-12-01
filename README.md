@@ -33,6 +33,6 @@ L8: 链接：https://pan.baidu.com/s/1dEuxvCcAyRwE9IPjf2K-_g
 
 实现L8所有功能
 
-蓝图切换材质在MaterialSwitch地图里
+蓝图切换材质在MaterialSwitch地图里, 按数字5可唤出切换按钮
 
-其余在ThirdPersonExampleMap里
+其余的实现在ThirdPersonExampleMap里
