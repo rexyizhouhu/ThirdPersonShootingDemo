@@ -36,3 +36,13 @@ L8: 链接：https://pan.baidu.com/s/1dEuxvCcAyRwE9IPjf2K-_g
 蓝图切换材质在MaterialSwitch地图里, 按数字5可唤出切换按钮
 
 其余的实现在ThirdPersonExampleMap里
+
+
+L9: 链接：https://pan.baidu.com/s/1n5z14k_XF3egnt-B9-Hurg 
+提取码：bof7
+
+实现L9所有功能
+
+视频中第一个角色为狙击手，喜欢往高处逃，不会追击敌人
+
+第二个为突击兵，遇到敌人会找附件的掩体然后攻击，会追击敌人
